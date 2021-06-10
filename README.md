@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Soumik</h1>
 <h3 align="center">Software Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/soumikshah" target="blank"><img src="https://img.shields.io/twitter/follow/soumikshah?logo=twitter&style=for-the-badge" alt="soumikshah" /></a> </p>
+<p align="left"> <a href="https://twitter.com/soumikshah" target="blank"><img src="https://img.shields.io/twitter/follow/soumikshah?logo=twitter&style=for-the-badge" alt="soumikshah" /></a> <a href="https://fb.com/https://www.facebook.com/droidgyaan/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/droidgyaan/" height="30" width="40" /></a> </p>
+<p align="left">
+
+</p>
 
 - 🔭 I’m currently working on [BeyondTV In Room Entertainment System](https://beyondtv.com)
 
