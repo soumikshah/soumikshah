@@ -3,10 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/soumikshah" target="blank"><img src="https://img.shields.io/twitter/follow/soumikshah?logo=twitter&style=for-the-badge" alt="soumikshah" /></a> </p>
 
-- 🔭 I’m currently working on [BeyondTV In Room Entertainment System](https://beyondtv.com)
-
-- 👨‍💻 All of my projects are available at [github.com/soumikshah](github.com/soumikshah)
-
 - 📝 I used to write articles on [droidgyaan.in](droidgyaan.in)
 
 - 📫 How to reach me **developer@soumikshah.com**
